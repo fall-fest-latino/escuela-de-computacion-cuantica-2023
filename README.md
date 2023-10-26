@@ -5,6 +5,8 @@
 
 Esta escuela brinda clases, conferencias y sesiones de programación detalladas sobre la tecnología de vanguardia: La Computación Cuántica, cubriendo áreas importantes en el campo académico y laboral, de la mano de especialistas en computación cuántica, las computadoras cuánticas de IBM y los módulos de Qiskit. Esta actividad está dirigida a estudiantes de habla hispana y con interés en desarrollar habilidades profesionales en esta tecnología emergente.
 
+[Página web del evento](https://www.cofalumniusb.org/qiskit-escuela-de-verano-2023)
+
 ## [Día 1](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia01)
 - Analogía: computación clásica y cuántica
 - Álgebra líneal

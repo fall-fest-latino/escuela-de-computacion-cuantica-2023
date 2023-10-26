@@ -1,7 +1,7 @@
 <img width="1000" alt="fallfestlatino-github" src="https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/assets/1554515/27b9064b-5310-4bcd-baae-640eef67c4bc">
 
 
-# Escuela de Computación Cuántica 2023
+# Escuela de Computación Cuántica en Español 2023
 
 Esta escuela brinda clases, conferencias y sesiones de programación detalladas sobre la tecnología de vanguardia: La Computación Cuántica, cubriendo áreas importantes en el campo académico y laboral, de la mano de especialistas en computación cuántica, las computadoras cuánticas de IBM y los módulos de Qiskit. Esta actividad está dirigida a estudiantes de habla hispana y con interés en desarrollar habilidades profesionales en esta tecnología emergente.
 

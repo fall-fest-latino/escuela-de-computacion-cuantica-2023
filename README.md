@@ -11,7 +11,7 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 - Fundamentos de la computación cuántica
 
 
-## Día 2
+## [Día 2](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia02)
 - ¿Cómo iniciar con los algoritmos cuánticos?
 - IBM Quantum Composer
 - Entrelazamiento

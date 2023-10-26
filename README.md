@@ -25,7 +25,7 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 - Qiskit Runtime
 
 
-## Día 4
+## [Día 4](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia04)
 - Algoritmo de Grover
 - Aplicaciones del algoritmo de Grover
 - Hardware actual

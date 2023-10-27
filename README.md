@@ -7,6 +7,7 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 
 [Página web del evento](https://www.cofalumniusb.org/qiskit-escuela-de-verano-2023)
 
+
 ## [Día 1](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia01)
 - Analogía: computación clásica y cuántica
 - Álgebra líneal
@@ -30,11 +31,14 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 - Aplicaciones del algoritmo de Grover
 - Hardware actual
 
-## [Ejercicios](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/ejercicios)
-- Reto 1: Circuitos Cuánticos
 
 ## [Día 5](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia05)
 - Transformada cuántica de Fourier
 - Estimación de fase cuántica
 - Algoritmo de Shor
+
+
+## [Ejercicios](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/ejercicios)
+- Reto 1: Circuitos Cuánticos
+
 

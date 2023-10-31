@@ -39,6 +39,7 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 
 
 ## [Ejercicios](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/ejercicios)
-- Reto 1: Circuitos Cuánticos
+- Ejercicio 1: Circuitos Cuánticos
+- Ejercicio 2: Qiskit Runtime
 
 

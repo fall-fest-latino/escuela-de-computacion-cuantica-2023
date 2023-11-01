@@ -42,6 +42,6 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 - Ejercicio 1: Circuitos Cuánticos [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S7x_zm6rB8okAu_AXt9QkTkrIHb5DiiE?usp=sharing)
 - Ejercicio 2: Qiskit Runtime
 - Ejercicio 3: Algoritmo de Shor
-- Ejercicio 4: Optimización
+- Ejercicio 4: Optimización [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S83es5-6FC7C2woXLR--lyqgq72hIlSL?usp=sharing)
 
 

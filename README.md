@@ -41,11 +41,14 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 ### [Día 6](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia06)
 - Quantum approximate optimization algorithm (QAOA)
 ### Día 7
+
 ### [Día 8](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia08)
 - Aprendizaje automático cuántico (Quantum machine learning, QML)
 - Divulgación científica en computación cuántica
 ### Día 9
-### Día 10
+
+### [Día 10](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia10)
+- Contribución al Open Source
 
 
 ## [Ejercicios](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/ejercicios)

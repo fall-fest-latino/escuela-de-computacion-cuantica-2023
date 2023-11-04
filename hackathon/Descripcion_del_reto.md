@@ -1,7 +1,7 @@
-## Descripción del reto
+## Descripción del Hackathon
 
 
-En este proyecto se abordará el crear un proyecot usando computación cuántica
+En este Hackathon se abordará el crear un proyecto usando computación cuántica y Qiskit, todos los recursos de qiskit son válidos algoritmos cuánticos, qiskit nature, optimización, quantum machine learning, pulse, runtime, entre otros, el límite es su imaginación.
 
 Todos los proyectos se califican con los mismos criterios, de la siguiente manera:
 

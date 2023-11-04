@@ -55,3 +55,10 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 - Ejercicio 4: Optimización [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S83es5-6FC7C2woXLR--lyqgq72hIlSL?usp=sharing)
 
 
+## [Hackathon y Challenges]
+
+Para poder trabajar con alguno de estos retos hagan un fork de este repositorio y agreguen en cada uno de los folders los documentos de su trabajo por reto. Si es repetido repitan sus archivos en cada reto, es decir si trabajan en openqaoa y qiskit pongan en ambas carpetas los archivos en un solo PR. Este reto acabará a las 9 utc-5 del viernes 10 de Noviembre de 2023 si no hacen el PR a tiempo se desactivará esa funcionalidad y no se considerará su trabajo.
+
+Pueden participar en más de uno con proyectos iguales o diferentes la importancia es su pasión de cadau no de los retos.
+
+La sesión de presentación de las pláticas se harán el 10 de Noviembre de 2023 a las 10:30 hrs utc-5

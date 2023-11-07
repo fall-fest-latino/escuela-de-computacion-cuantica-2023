@@ -66,6 +66,8 @@ def optimize_circuit(hamiltonian):
     #########################################################
     # AdagradOptimizer
     # Se selecciona por dar el mejor resultado con menos pasos en menos tiempo
+    # Para mejorar el resultado se puede cambiar el valor de 'stepsize' al reducirlo
+    # se limita la busqueda, por lo cual requeriria incrementar el número de pasos
     #########################################################
     optGDO = qml.AdagradOptimizer(stepsize=0.1, eps=1e-08)  
     steps = 200

@@ -1,4 +1,4 @@
-Equopo: Qutips
+Equipo: Qutips
 
 Integrantes:
 Areli Yesareth Guerrero Estrada

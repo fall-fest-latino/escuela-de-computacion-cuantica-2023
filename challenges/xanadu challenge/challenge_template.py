@@ -61,16 +61,16 @@ def optimize_circuit(hamiltonian):
     params = np.random.randn(1, 30)
     opt = qml.GradientDescentOptimizer(stepsize=5e-2)
     for i in range(51):
-        params, cost = opt.step_and_cost(circuit, params)
+        params, cost = opt.step_and_cost(circuit, params, hamiltonian=hamiltonian)
         if i % 10 == 0:
             print(f"Step {i}: cost = {cost:.4f}")
     
 
-    return variational_circuit(params)# Return the value of the minimized QNode
+    return variational_circuit(params, hamiltonian)# Return the value of the minimized QNode
 
-hamiltonian = [0.863327072347624,0.0167108057202516,0.07991447085492759,0.0854049026262154,0.0167108057202516,0.8237963773906136,
-               -0.07695947154193797,0.03131548733285282,0.07991447085492759,-0.07695947154193795,0.8355417021014687,
-               -0.11345916130631205,0.08540490262621539,0.03131548733285283,-0.11345916130631205,0.758156886827099]
+hamiltonian = [0.32158897156285354,-0.20689268438270836,0.12366748295758379,-0.11737425017261123,-0.20689268438270836,
+               0.7747346055276305,-0.05159966365446514,0.08215539696259792,0.12366748295758379,-0.05159966365446514,
+               0.5769050487087416,0.3853362904758938,-0.11737425017261123,0.08215539696259792,0.3853362904758938,0.3986256655167206]
 
 result = optimize_circuit(hamiltonian)
 

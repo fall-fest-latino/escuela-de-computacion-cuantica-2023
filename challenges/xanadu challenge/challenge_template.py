@@ -52,11 +52,26 @@ def optimize_circuit(hamiltonian):
     
     ### Solution Template
 
-    dev = # Initialize the device.
+    dev = qml.device("default.qubit", wires=WIRES, shots=50)# Initialize the device.
 
-    circuit = # Instantiate the QNode from variational_circuit.
+    circuit = qml.QNode(variational_circuit, dev)# Instantiate the QNode from variational_circuit.
 
     # Write your code to minimize the circuit
+    np.random.seed(12)
+    params = np.random.randn(1, 30)
+    opt = qml.GradientDescentOptimizer(stepsize=5e-2)
+    for i in range(51):
+        params, cost = opt.step_and_cost(circuit, params)
+        if i % 10 == 0:
+            print(f"Step {i}: cost = {cost:.4f}")
+    
 
-    return # Return the value of the minimized QNode
+    return variational_circuit(params)# Return the value of the minimized QNode
 
+hamiltonian = [0.863327072347624,0.0167108057202516,0.07991447085492759,0.0854049026262154,0.0167108057202516,0.8237963773906136,
+               -0.07695947154193797,0.03131548733285282,0.07991447085492759,-0.07695947154193795,0.8355417021014687,
+               -0.11345916130631205,0.08540490262621539,0.03131548733285283,-0.11345916130631205,0.758156886827099]
+
+result = optimize_circuit(hamiltonian)
+
+print(result.eigvals()[0])

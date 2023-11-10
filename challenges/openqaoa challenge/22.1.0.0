@@ -1,0 +1,6 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting cplex
+  Downloading cplex-22.1.1.0-cp310-cp310-win_amd64.whl (26.4 MB)
+     ---------------------------------------- 26.4/26.4 MB 9.8 MB/s eta 0:00:00
+Installing collected packages: cplex
+Successfully installed cplex-22.1.1.0

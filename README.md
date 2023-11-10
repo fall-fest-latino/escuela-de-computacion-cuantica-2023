@@ -48,6 +48,7 @@ Esta escuela brinda clases, conferencias y sesiones de programación detalladas 
 ### [Día 9](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia09)
 
 - Witnessing Quantum Gravity trough Quantum Circuits
+- Quantum Blockchain
 
 ### [Día 10](https://github.com/fall-fest-latino/escuela-de-computacion-cuantica-2023/tree/main/dia10)
 - Contribución al Open Source

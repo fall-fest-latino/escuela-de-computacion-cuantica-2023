@@ -84,7 +84,7 @@ print(a)
 b = optimize_circuit(in2, ch_opt="Momentum", traceback=True)
 print(b)
 
-"""
+
 # ADAGRAD
 
 steps = np.linspace(0.1, 0.15, 20)
@@ -167,4 +167,3 @@ plt.plot(0.975, 22.2, 'r.')
 plt.text(0.94, 22, '(Momentum)', fontsize=10, ha='left', va='top')
 plt.legend(loc='lower right')
 plt.show()
-"""

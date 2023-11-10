@@ -1,4 +1,5 @@
 # Quantum Quest: La Aventura de Quanta
+<img height="30" src="[https://github.com/CarolinaPerdomo/CarolinaPerdomo/blob/main/icons/linkedin.png?raw=true](https://github.com/Quantumaniacs/escuela-de-computacion-cuantica-2023/blob/main/challenges/PIQUE%20challenge/Image_Selection/quanta.png)">
 
 ## Quick Overview
 "Quantum Quest: La Aventura de Quanta" is a creation by **Quantumaniacs**: Angel Contreras, Antonia Morales, Carolina Perdomo, aiming to blend the thrill of video games with the fascinating world of quantum computing. This game is an entry point for young minds to grasp complex concepts like superposition, Grover's algorithm, and decoherence through an interactive narrative. Crafted during a fast-paced hackathon, it stands as a testament to the educational potential of gaming.
